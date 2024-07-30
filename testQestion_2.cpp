@@ -1,4 +1,4 @@
-// Assume class employee stores Name, Age, and ID , basic salaty,total overtime(hr) in a month and hourly rate. write a c++ program to read to read the data of N employee and compute Net Salary of Each Employee(consider Income Tax(IT)= 30% of the gross salary)
+// Assume class employee stores Name, Age, and ID , basic salary,total overtime(hr) in a month and hourly rate. write a c++ program to  read the data of N employee and compute Net Salary of Each Employee(consider Income Tax(IT)= 30% of the gross salary)
 
 #include<iostream>
  #define max 100
