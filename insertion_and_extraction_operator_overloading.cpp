@@ -4,7 +4,7 @@ using namespace std;
 class Test{
     int x;
     public:
-    Test(int x=0):x{x} {};
+   Test(){x=0;};
     friend istream&  operator>>(istream& input,Test& obj);
     friend ostream& operator << (ostream& output,Test& obj);
 };
@@ -18,7 +18,7 @@ ostream& operator << (ostream& output,Test& obj)
     output<<obj.x<<endl;
     return output;
 }
-;
+
 int main(){
     Test t;
     cout<<"Enter the number: ";
