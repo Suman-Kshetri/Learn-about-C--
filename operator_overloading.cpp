@@ -16,7 +16,7 @@ class complex_number{
 
     public:
     
-    void geta_data(void){
+    void get_data(void){
         cout<<"Real: ";
         cin>>real;
         cout<<"Imaginary: ";
@@ -59,9 +59,9 @@ class complex_number{
 int main(){
     complex_number c1,c2,sum,sub,mul,div;
     cout<<"Enter the fist complex number: "<<endl;
-    c1.geta_data();
+    c1.get_data();
     cout<<"Enter the second complex number: "<<endl;
-    c2.geta_data();
+    c2.get_data();
     
     sum=c1+c2;
     cout<<"The sum is: ";
