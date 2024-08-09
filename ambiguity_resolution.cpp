@@ -1,4 +1,4 @@
- //both derived and base class havin the same function in both the classes
+ //both derived and base class having the same function in both the classes
  
  #include<iostream>
 using namespace std;

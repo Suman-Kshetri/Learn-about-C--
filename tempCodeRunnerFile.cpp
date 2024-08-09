@@ -1,3 +1,4 @@
-ator++(int) {//postfix increment
-    //     count=count+1;
-    // }
+if (obj.i==21)
+        {
+            cout<<"Integer Exception Caught!";
+        }
