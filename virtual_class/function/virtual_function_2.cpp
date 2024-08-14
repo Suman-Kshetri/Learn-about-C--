@@ -4,7 +4,7 @@ Rules for virtual function
 2. they are accessed by a object pointer
 3. virtual function can be a friend of another class
 4. a virtual function in base class might not be used
-5. if a virtual function is defined in a base class, there is no necessity of rendefinig is in the derived class
+5. if a virtual function is defined in a base class, there is no necessity of rendefinig it in the derived class
 */
 
 #include<iostream>

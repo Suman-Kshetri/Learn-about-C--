@@ -4,7 +4,7 @@
 3. logical error- due to the poor understanding of the problem
 4. latent error- the hidden or unknown errors are latent error
 
-error handling refers to the anticipation detection and resolution of errors int the program
+error handling refers to the anticipation detection and resolution of errors in the program
 
 different type of exception that may arise in a program
 1. divide by zero

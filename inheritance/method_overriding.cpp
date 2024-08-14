@@ -1,7 +1,7 @@
 // method overriding / function overriding in inheritance
 
 #include<iostream>
-#include<conio.h>
+// #include<conio.h>
 using namespace std;
 
 class A{
